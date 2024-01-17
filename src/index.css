@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* 0E0C15 */
+body{
+    @apply bg-[#0E0C15] text-white mx-14 my-3;
+}
